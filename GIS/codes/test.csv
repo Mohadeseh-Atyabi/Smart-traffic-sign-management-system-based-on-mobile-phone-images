@@ -1,0 +1,51 @@
+image_name,class_id,class_name,image_path,latitude,longitude
+20230303_082016[25],8,No Stopping,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082016[25].jpg,35.70443117,51.40642377
+20230303_082021[35],16,Stop,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082021[35].jpg,35.70432222,51.40601556
+20230303_082038[67],5,Keep Right,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082038[67].jpg,35.70459769,51.40581713
+20230303_082039[68],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082039[68].jpg,35.70465079,51.40582619
+20230303_082044[79],8,No Stopping,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082044[79].jpg,35.70500056,51.40588556
+20230303_082047[84],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082047[84].jpg,35.70511333,51.40590583
+20230303_082047[84],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082047[84].jpg,35.70519167,51.40592037
+20230303_082101[108],12,One-way Traffic,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082101[108].jpg,35.70592963,51.40604259
+20230303_082059[104],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082059[104].jpg,35.70591296,51.40604074
+20230303_082102[111],15,Sharp deviation of route (single),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082102[111].jpg,35.70599444,51.40605139
+20230303_082107[120],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082107[120].jpg,35.70613056,51.40607562
+20230303_082116[138],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082116[138].jpg,35.70646746,51.40620714
+20230303_082123[149],11,On approaches to junctions,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082123[149].jpg,35.70653611,51.40691389
+20230303_082132[164],6,Maximum Speed,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082132[164].jpg,35.70655278,51.4074787
+20230303_082141[180],5,Keep Right,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082141[180].jpg,35.70657817,51.40808234
+20230303_082147[191],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082147[191].jpg,35.70658056,51.40863333
+20230303_082154[202],10,No through road,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082154[202].jpg,35.70661528,51.40905139
+20230303_082206[225],11,On approaches to junctions,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082206[225].jpg,35.70666458,51.41005764
+20230303_082218[243],15,Sharp deviation of route (single),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082218[243].jpg,35.7067,51.41072193
+20230303_082210[231],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082210[231].jpg,35.70670111,51.41046167
+20230303_082222[250],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082222[250].jpg,35.70668704,51.41163241
+20230303_082225[256],2,At the junction,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082225[256].jpg,35.70668194,51.41196806
+20230303_082239[281],12,One-way Traffic,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082239[281].jpg,35.70615208,51.41224583
+20230303_082250[303],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082250[303].jpg,35.70527222,51.41233889
+20230303_082309[338],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082309[338].jpg,35.70413924,51.41245208
+20230303_082306[333],6,Maximum Speed,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082306[333].jpg,35.70423611,51.41244722
+20230303_082320[358],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082320[358].jpg,35.70327611,51.41255944
+20230303_082324[366],2,At the junction,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082324[366].jpg,35.70304306,51.41258403
+20230303_082333[381],11,On approaches to junctions,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082333[381].jpg,35.70235952,51.41267381
+20230303_082337[390],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082337[390].jpg,35.70203763,51.41271616
+20230303_082341[396],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082341[396].jpg,35.70192436,51.41272778
+20230303_082339[393],11,On approaches to junctions,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082339[393].jpg,35.70180231,51.41274028
+20230303_082343[400],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082343[400].jpg,35.70160167,51.41274556
+20230303_082345[405],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082345[405].jpg,35.70150417,51.41267639
+20230303_082358[427],15,Sharp deviation of route (single),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082358[427].jpg,35.70146759,51.41161481
+20230303_082425[469],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082425[469].jpg,35.70142486,51.40961208
+20230303_082427[472],10,No through road,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082427[472].jpg,35.70140093,51.40872963
+20230303_082449[507],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082449[507].jpg,35.70136389,51.40672685
+20230303_082447[504],12,One-way Traffic,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082447[504].jpg,35.70136667,51.40671389
+20230303_082456[520],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082456[520].jpg,35.70135625,51.40605972
+20230303_082503[533],6,Maximum Speed,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082503[533].jpg,35.70135611,51.405785
+20230303_082457[521],10,No through road,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082457[521].jpg,35.70135278,51.40593056
+20230303_082514[553],2,At the junction,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082514[553].jpg,35.70137288,51.40547892
+20230303_082512[551],6,Maximum Speed,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082512[551].jpg,35.7014213,51.40531667
+20230303_082522[568],6,Maximum Speed,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082522[568].jpg,35.70176944,51.4053125
+20230303_082522[568],5,Keep Right,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082522[568].jpg,35.70175972,51.40531111
+20230303_082522[569],14,Sharp deviation of Route (group),C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082522[569].jpg,35.70183194,51.40532315
+20230303_082528[579],18,Transport with Crane,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082528[579].jpg,35.70216563,51.40539132
+20230303_082534[591],7,No Entry,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082534[591].jpg,35.70267917,51.40548403
+20230303_082543[607],13,Pedestrian Route,C:/Users/ASUS/OneDrive/Desktop/test_data/20230303_082543[607].jpg,35.70326698,51.40557685
