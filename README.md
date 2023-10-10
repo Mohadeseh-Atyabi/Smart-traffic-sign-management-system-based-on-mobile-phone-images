@@ -5,6 +5,8 @@ This system is designed to recognize traffic signs in an image and estimate thei
 </p>
 
 ## Dataset
+I collected a dataset that focuses on Tehran's dynamic streets, presenting a distinct perspective on the traffic sign challenges encountered in this vibrant urban environment. To collect the images, the mobile phone camera was installed on the windshield of the moving car and a picture was taken every 3 seconds. Investigations have shown that signs that are up to 7 meters away from the camera can be easily identified. To reduce the overlapping of consecutive images, the images that are less than 7 meters apart have been filtered. Eventually, a total of **1010 images** were used that were divided into test and train with the ratio of 80 to 20. In this dataset, 18 different types of traffic signs was annotated using **Label Studio**. I have shared my dataset on [Kaggle](https://www.kaggle.com/datasets/mohadesehatyabi/iranian-traffic-sign-dataset/). Feel free to download it and use it in your machine vision and image processing projects. 
+
 ## Finetuning Faster R-CNN
 ## Determining the location of detected objects
 ## Visualization of identified signs on Google Map 
